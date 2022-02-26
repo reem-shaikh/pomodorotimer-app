@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pomodorotimer-app/static/css/main.27f5551e.css",
+    "main.js": "/pomodorotimer-app/static/js/main.37dea337.js",
+    "static/js/787.62cbff1a.chunk.js": "/pomodorotimer-app/static/js/787.62cbff1a.chunk.js",
+    "index.html": "/pomodorotimer-app/index.html",
+    "main.27f5551e.css.map": "/pomodorotimer-app/static/css/main.27f5551e.css.map",
+    "main.37dea337.js.map": "/pomodorotimer-app/static/js/main.37dea337.js.map",
+    "787.62cbff1a.chunk.js.map": "/pomodorotimer-app/static/js/787.62cbff1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27f5551e.css",
+    "static/js/main.37dea337.js"
+  ]
+}
