@@ -1,4 +1,4 @@
-# pomodorotimer-app
+# Pomodoro Timer 
 ### Npm Packages 
 1. react-circular-progressbar from `https://www.npmjs.com/`
 A circular progressbar component, built with SVG and extensively customizable
